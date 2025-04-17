@@ -9,7 +9,7 @@
         "simshaun/recurr": "^5.0",
         "sylius/calendar": "^0.4.0",
         "sylius/mailer-bundle": "^2.0",
-        "sylius/sylius": "^1.11",
+        "sylius/sylius": "^1.11 || ^2.*",
         "symfony/lock": "^5.4 || ^6.0",
         "symfony/webpack-encore-bundle": "^1.16"
     },
